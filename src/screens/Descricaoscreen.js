@@ -168,8 +168,7 @@ const styles = StyleSheet.create({
     justifyContent: "center",
     alignItems: "center",
     marginBottom: 12,
-    maxWidth: 200,
-    marginLeft: 630,
+    alignSelf: "center",
   },
   buttonText: {
     color: "#FFF",
@@ -182,12 +181,12 @@ const styles = StyleSheet.create({
     borderRadius: 10,
     justifyContent: "center",
     alignItems: "center",
-    maxWidth: 200,
-    marginLeft: 630,
+    alignSelf: "center",
   },
   favoriteText: {
     color: "#ffffff",
     fontSize: 16,
+    alignSelf: "center",
   },
 });
 
