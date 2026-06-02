@@ -3,8 +3,8 @@ import { createNativeStackNavigator } from "@react-navigation/native-stack";
 import Home from "../screens/Homescreen";    
 import Descricao from "../screens/Descricaoscreen";
 import Trailer from "../screens/Trailerscreen";
-import FavoritoScreen from "../screens/FavoritoScreen";
-import PesquisaScreen from "../screens/PesquisaScreen";
+import FavoritoScreen from "../screens/Favoritoscreen";
+import PesquisaScreen from "../screens/Pesquisascreen";
 const Stack = createNativeStackNavigator();
 
 const StackNavigator = () => {

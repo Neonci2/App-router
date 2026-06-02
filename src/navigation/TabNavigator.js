@@ -6,9 +6,9 @@ import Assinatura from "../screens/Assinaturascreen";
 import Configuracoes from "../screens/Configuracaoscreen";
 import Conta from "../screens/Contascreen";
 import Home from "../screens/Homescreen";
-import Favoritos from "../screens/FavoritoScreen";
+import Favoritos from "../screens/Favoritoscreen";
 import Perfil from "../screens/Perfilscreen";
-import Pesquisa from "../screens/PesquisaScreen";
+import Pesquisa from "../screens/Pesquisascreen";
 import StackNavigator from "./StackNavigator";
 
 const Tab = createBottomTabNavigator();
